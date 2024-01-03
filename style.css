@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #dbcaca;
+    padding-top: 20px;
+}
+
+.container{
+    max-width: 100%;
+    list-style: none;
+}
+
+.carousel-item img{
+    height: 750px;
+}
+
+h5{
+    color: #1c232b;
+}
+
+p{
+    color:#6c7289
+}
